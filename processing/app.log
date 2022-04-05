@@ -1,0 +1,161 @@
+2022-03-03 09:49:21,723 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-03-03 09:49:21,724 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-03-03 09:49:21,748 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-03-03 09:49:21,748 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-03-03 09:49:26,835 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:03:39,860 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:03:39,861 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:03:39,886 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:03:39,886 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:03:44,980 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:03:49,980 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:03:54,977 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:03:59,977 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:04:04,980 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:04:09,975 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:04:14,978 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:04:19,977 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:04:24,976 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:04:29,977 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:04:34,978 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:04:39,365 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:04:39,365 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:04:39,388 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:04:39,388 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:04:44,473 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:04:49,475 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:04:54,475 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:04:59,698 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:04:59,698 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:04:59,717 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:04:59,717 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:05:04,793 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:05:09,792 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:05:14,792 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:05:19,793 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:05:24,792 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:05:29,792 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:05:34,792 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:05:39,793 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:05:44,789 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:05:50,153 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:05:50,154 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:05:50,177 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:05:50,177 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:05:55,266 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:00,266 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:05,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:10,264 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:15,264 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:20,264 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:25,264 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:30,264 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:35,262 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:40,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:45,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:50,266 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:06:55,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:00,263 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:05,267 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:10,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:15,263 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:20,264 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:25,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:30,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:35,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:40,266 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:45,264 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:50,262 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:07:55,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:00,261 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:05,262 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:10,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:15,266 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:20,262 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:25,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:30,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:35,264 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:40,271 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:45,267 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:50,265 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:08:55,264 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:00,264 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:05,266 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:10,266 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:15,266 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:20,262 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:25,266 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:30,274 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:35,264 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:40,721 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:09:40,721 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:09:40,761 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:09:40,761 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:09:45,905 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:50,907 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:55,908 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:09:55,984 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:09:55,984 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:00,906 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:00,932 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:00,932 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:05,905 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:05,931 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:05,931 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:10,907 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:10,929 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:10,929 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:15,907 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:15,932 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:15,932 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:20,907 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:20,930 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:20,930 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:25,906 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:25,923 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:25,923 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:30,907 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:30,931 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:30,931 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:35,905 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:35,938 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:35,938 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:40,908 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:40,934 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:40,935 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:45,907 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:45,936 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:45,936 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:50,907 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:50,930 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:50,930 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:10:55,907 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:10:55,930 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:10:55,930 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:11:00,906 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:11:00,929 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:11:00,929 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:11:05,906 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:11:05,933 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:11:05,933 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:11:10,907 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:11:10,932 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:11:10,932 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:11:15,907 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:11:15,927 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:11:15,927 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:11:20,907 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:11:20,930 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:11:20,930 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:11:25,904 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:11:25,930 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:11:25,930 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:11:30,911 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:11:30,955 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:11:30,955 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:11:35,905 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:11:35,925 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:11:35,925 - basicLogger - ERROR - ERROR ON Receiving data for online.
+2022-04-03 22:11:40,906 - basicLogger - INFO - periodic processing has started. Received event get_stats request
+2022-04-03 22:11:40,922 - basicLogger - ERROR - ERROR ON Receiving data for instore.
+2022-04-03 22:11:40,922 - basicLogger - ERROR - ERROR ON Receiving data for online.

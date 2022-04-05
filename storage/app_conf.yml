@@ -1,0 +1,17 @@
+version: 1 
+datastore: 
+  user: user
+  password: Password
+  hostname: "jasleen-acit3855-lab.eastus2.cloudapp.azure.com"
+  port: 3306
+  db: events
+  
+events:
+  hostname: "jasleen-acit3855-lab.eastus2.cloudapp.azure.com"
+  port: 9092
+  topic: events
+
+connecting_kafka:
+  retry_count_max: 10
+  time_sleep: 5
+  

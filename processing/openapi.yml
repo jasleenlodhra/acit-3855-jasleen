@@ -1,0 +1,57 @@
+openapi: 3.0.0
+
+info:
+  title: Health App API
+  description: This API receives reading events from diabetic medical devices
+  contact:
+    email: jlodhra@bcit.ca
+  version: 1.0.0
+tags:
+- name: readings
+  description: Operations available to diabetic medical device readings
+paths:
+  /stats:
+    get:
+      summary: gets the event stats
+      description: "get new data for in-store sales and online sales stats"
+      operationId: app.get_stats
+      responses:
+        "200":
+          description: Successfully returned a list of Blood Sugar events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    ReadingStats:
+      required:
+      - num_bs_readings
+      - max_bs_readings
+      - num_cl_readings
+      - max_cl_readings
+      type: object
+      properties:
+        num_bs_readings:
+          type: integer
+          example: 5000
+        max_bs_readings:
+          type: integer
+          example: 100
+        num_cl_readings:
+          type: integer
+          example: 8000
+        max_cl_readings:
+          type: integer
+          example: 200

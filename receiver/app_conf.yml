@@ -1,0 +1,17 @@
+version: 1
+get_blood_sugar_reading:
+  url: http://localhost:8080/readings/blood-sugar
+report_blood_sugar_reading:
+  url: http://localhost:8080/readings/blood-sugar
+get_cortisol_level_reading:
+  url: http://localhost:8080/readings/cortisol-level
+report_cortisol_level_reading:
+  url: http://localhost:8080/readings/cortisol-level
+events: 
+  hostname: "jasleen-acit3855-lab.eastus2.cloudapp.azure.com"
+  port: 9092 
+  topic: events
+
+connecting_kafka:
+  retry_count_max: 10
+  time_sleep: 5

@@ -1,0 +1,139 @@
+openapi: 3.0.0
+
+info:
+  title: Health App API
+  description: This API receives reading events from diabetic medical devices
+  contact:
+    email: jlodhra@bcit.ca
+  version: 1.0.0
+tags:
+- name: readings
+  description: Operations available to diabetic medical device readings
+paths:
+  /readings/blood-sugar:  
+    get:
+      tags:
+      - blood-sugar
+      summary: gets new data for in-store sales
+      description: "get new data for in-store sales figures"
+      operationId: app.get_blood_sugar_reading
+      parameters:
+      - name: start_timestamp
+        in: query
+        description: limits the number of items on a page start timestamp
+        schema:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:11:33Z'
+      - name: end_timestamp
+        in: query
+        description: limits the number of items on a page end timestamp
+        schema:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33Z'
+      responses:
+        "200":
+          description: Successfully returned a list of in-store sales events
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/BloodSugarReadings'
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+  /readings/cortisol-level:
+    get:
+      tags:
+      - cortisol-level
+      summary: gets new data for online sales
+      description: "get new data for online sales figures"
+      operationId: app.get_cortisol_level_reading
+      parameters:
+      - name: start_timestamp
+        in: query
+        description: limits the number of items on a page start timestamp
+        schema:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:11:33Z'
+      - name: end_timestamp
+        in: query
+        description: limits the number of items on a page end timestamp
+        schema:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33Z'
+      responses:
+        "200":
+          description: Successfully returned a list of online sales events
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/CortisolLevelReadings'
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    BloodSugarReadings:
+      required:
+        - patient_id
+        - device_id
+        - timestamp
+        - blood_sugar
+      type: object
+      properties:
+        patient_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        device_id:
+          type: string
+          example: BS9237
+        blood_sugar:
+          type: integer
+          example: 5
+        timestamp:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+    CortisolLevelReadings:
+      required:
+        - patient_id
+        - device_id
+        - timestamp
+        - cortisol_level
+      type: object
+      properties:
+        patient_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        device_id:
+          type: string
+          example: CL9012
+        cortisol_level:
+          type: integer
+          example: 40
+        timestamp:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
