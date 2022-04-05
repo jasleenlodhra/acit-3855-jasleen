@@ -1,0 +1,37 @@
+2022-04-03 22:09:52,704 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:09:52,704 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:09:52,785 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:09:52,785 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:09:52,815 - basicLogger - INFO - Connecting to Kafka and the current retry count is 1
+2022-04-03 22:09:55,566 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:10:00,568 - basicLogger - INFO - Connecting to Kafka and the current retry count is 2
+2022-04-03 22:10:03,328 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:10:08,333 - basicLogger - INFO - Connecting to Kafka and the current retry count is 3
+2022-04-03 22:10:11,089 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:10:16,094 - basicLogger - INFO - Connecting to Kafka and the current retry count is 4
+2022-04-03 22:10:18,852 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:10:23,855 - basicLogger - INFO - Connecting to Kafka and the current retry count is 5
+2022-04-03 22:10:26,613 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:10:32,989 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:10:32,989 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:10:33,055 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-04-03 22:10:33,055 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-04-03 22:10:33,087 - basicLogger - INFO - Connecting to Kafka and the current retry count is 1
+2022-04-03 22:10:35,832 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:10:40,832 - basicLogger - INFO - Connecting to Kafka and the current retry count is 2
+2022-04-03 22:10:43,586 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:10:48,591 - basicLogger - INFO - Connecting to Kafka and the current retry count is 3
+2022-04-03 22:10:51,338 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:10:56,342 - basicLogger - INFO - Connecting to Kafka and the current retry count is 4
+2022-04-03 22:10:59,089 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:11:04,092 - basicLogger - INFO - Connecting to Kafka and the current retry count is 5
+2022-04-03 22:11:06,849 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:11:11,854 - basicLogger - INFO - Connecting to Kafka and the current retry count is 6
+2022-04-03 22:11:14,610 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:11:19,616 - basicLogger - INFO - Connecting to Kafka and the current retry count is 7
+2022-04-03 22:11:22,370 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:11:27,373 - basicLogger - INFO - Connecting to Kafka and the current retry count is 8
+2022-04-03 22:11:30,127 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:11:35,132 - basicLogger - INFO - Connecting to Kafka and the current retry count is 9
+2022-04-03 22:11:37,880 - basicLogger - ERROR - Cannot Connect to Kafka. The connection failed
+2022-04-03 22:11:42,897 - basicLogger - INFO - Connecting to Kafka and the current retry count is 10

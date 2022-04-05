@@ -1,6 +1,6 @@
 FROM node:13.12.0-alpine
 
-LABEL maintainer="tdang29@my.bcit.ca"
+LABEL maintainer="jlodhra@my.bcit.ca"
 
 #Set working Dir
 WORKDIR /app

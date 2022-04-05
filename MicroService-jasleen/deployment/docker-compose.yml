@@ -15,7 +15,7 @@
       hostname: kafka
       environment:
         KAFKA_CREATE_TOPICS: "events:1:1" # topic:partition:replicas 
-        KAFKA_ADVERTISED_HOST_NAME: "microservice-jasleen-new.eastus.cloudapp.azure.com" # docker-machine ip
+        KAFKA_ADVERTISED_HOST_NAME: "jasleen-acit3855-lab.eastus2.cloudapp.azure.com" # docker-machine ip
         KAFKA_LISTENERS: INSIDE://:29092,OUTSIDE://:9092
         KAFKA_INTER_BROKER_LISTENER_NAME: INSIDE
         KAFKA_ADVERTISED_LISTENERS: INSIDE://kafka:29092,OUTSIDE://microservice-jasleen-new.eastus.cloudapp.azure.com:9092 
@@ -36,9 +36,9 @@
         # So you don't have to use root, but you can if you like
         MYSQL_USER: 'user'
         # You can use whatever password you like
-        MYSQL_PASSWORD: 'Password'
+        MYSQL_PASSWORD: 'password'
         # Password for root access
-        MYSQL_ROOT_PASSWORD: 'Password'
+        MYSQL_ROOT_PASSWORD: 'password'
       ports:
         # <Port exposed> : < MySQL Port running inside container>
         - '3306:3306'
