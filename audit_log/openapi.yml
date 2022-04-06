@@ -13,13 +13,13 @@ paths:
     get:
       tags:
         - blood-sugar
-      summary: gets new data for in-store sales
-      description: "get new data for in-store sales figures"
+      summary: gets bs data
+      description: "get new data for bs"
       operationId: app.get_blood_sugar_reading
       parameters:
         - name: index
           in: query
-          description: gets instore sales details at the index in the event store
+          description: gets bs data
           schema: 
             type: integer
             example: 100
@@ -55,13 +55,13 @@ paths:
     get:
       tags:
         - cortisol-level
-      summary: gets new data for online sales
-      description: "get new data for online sales figures"
+      summary: gets cl data
+      description: "get new data for cl"
       operationId: app.get_cortisol_level_reading
       parameters:
         - name: index
           in: query
-          description: gets online sales details at the index in the event store
+          description: gets cl data
           schema: 
             type: integer
             example: 100

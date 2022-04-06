@@ -1,7 +1,7 @@
 version: 1 
 datastore: 
   user: user
-  password: Password
+  password: password
   hostname: "jasleen-acit3855-lab.eastus2.cloudapp.azure.com"
   port: 3306
   db: events
