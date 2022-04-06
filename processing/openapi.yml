@@ -13,7 +13,7 @@ paths:
   /stats:
     get:
       summary: gets the event stats
-      description: "get new data for in-store sales and online sales stats"
+      description: "get new data for blood sugar and cortisol level stats"
       operationId: app.get_stats
       responses:
         "200":
@@ -39,8 +39,11 @@ components:
       required:
       - num_bs_readings
       - max_bs_readings
+      - min_bs_readings
       - num_cl_readings
       - max_cl_readings
+      - min_cl_readings
+      - last_updated
       type: object
       properties:
         num_bs_readings:
@@ -48,10 +51,19 @@ components:
           example: 5000
         max_bs_readings:
           type: integer
+          example: 1000
+        min_bs_readings:
+          type: integer
           example: 100
         num_cl_readings:
           type: integer
           example: 8000
         max_cl_readings:
           type: integer
-          example: 200
+          example: 2000
+        min_cl_readings:
+          type: integer
+          example: 100
+        last_updated:
+          type: string
+          example: "2016-08-29T09:12:33Z"
